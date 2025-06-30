@@ -11,11 +11,11 @@
 
 当天第一次成功签到
 
-![image]()
+图片待补充。。。。
 
 当天重复签到
 
-![image]()
+![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/repeat.png)
 
 # Cookie获取
 
