@@ -9,11 +9,13 @@
 
 # 钉钉通知示例
 
-当天第一次成功签到
+## 当天第一次成功签到
 
-图片待补充。。。。
+在这次签到过程中没有回答问题获得经验值的任务，所有显示未找到日常问题或答案。
 
-当天重复签到
+![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/first.png)
+
+## 当天重复签到
 
 ![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/repeat.png)
 
