@@ -15,6 +15,10 @@
 
 ![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/first.png)
 
+成功完成签到及答题获得经验值。
+
+![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/first-1.png)
+
 ## 当天重复签到
 
 ![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/repeat.png)
