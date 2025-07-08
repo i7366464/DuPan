@@ -23,6 +23,10 @@
 
 ![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/repeat.png)
 
+## 连续签到一周每天17点成长值
+
+![image](https://github.com/i7366464/DuPan/blob/main/resources/photo/week.png)
+
 # Cookie获取
 
 打开：https://pan.baidu.com ，F12，网络，main文档里面把cookie，全部弄到变量里面，我的变量为 `XFI=***......ab_sr=***`（只列出了开头和结尾两个变量）。
